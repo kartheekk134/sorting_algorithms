@@ -42,4 +42,8 @@ public class Sorter {
     public void insertionSort(int[] arr){
 
     }
+
+    public void bucketSort(int[] arr){
+
+    }
 }
