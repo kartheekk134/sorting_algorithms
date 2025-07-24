@@ -5,7 +5,7 @@ public class Main {
         int[] arr = new int[]{5,4,3,2,1};
         Sorter sorter = new Sorter();
         sorter.bubbleSort(arr);
-        arr = new int[]{9,8,7,6,0};
+        arr = new int[]{9,8,7,6,1};
         sorter.selectionSort(arr);
     }
 }
